@@ -27,7 +27,7 @@
 ##  Tech Stack
 
 * **Frontend:** React Native (Engineered for cross-platform Android & iOS support)
-* **Backend:** Flask (Lightweight, robust web framework optimized for flexible API routing and rapid data processing) *(Note: Transitioned from the initially proposed Node.js/Express.js backend to Flask as outlined in "F24-192-( FYP-FINAL_REPORT ).docx")*.
+* **Backend:** Django (robust web framework optimized for flexible API routing and rapid data processing) *(Note: Transitioned from the initially proposed Node.js/Express.js backend to Flask as outlined in "F24-192-( FYP-FINAL_REPORT ).docx")*.
 * **Databases:** 
     * **Firebase:** Used for real-time data synchronization, instant chat routing, push notifications, and secure user authentication.
     * **MongoDB:** Employed for long-term data persistence, including user profiles, comprehensive match histories, and analytical evaluation records.
